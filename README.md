@@ -5,4 +5,4 @@ test repository
 
 woohooooo
 
-Das ist ein neuer Text. F***ing awesome!
+F***ing awesome!
